@@ -22,7 +22,9 @@ function Experience() {
           <p> <b>Activities: </b> 
             President of Robotics & Coding Club; 
             Social Media Marketer and Promoter of Uber Global Hackathon; 
-            Software Developer of Rental Home Booking System; Boxing Coach</p>
+            Software Developer of Rental Home Booking System; 
+            Learning Technology Committee; 
+            Mentor/Personal Boxing Coach (outside of school)</p>
 
           <p>
             <b>IGCSE Grades: </b>
