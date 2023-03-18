@@ -12,8 +12,8 @@ function Home() {
         <div className="prompt">
           <p>An aspiring Computer Science student with a passion for technology and entrepreneurship!</p>
           <LinkedInIcon onClick={event =>  window.location.href='https://www.linkedin.com/in/dae-yeon-koh-884528265/'}/>
-          <EmailIcon />
-          <GithubIcon />
+          <EmailIcon onClick={event =>  window.location.href='https://mail.google.com/mail/u/0/#inbox'}/>
+          <GithubIcon onClick={event =>  window.location.href='https://github.com/dkoh05'}/>
         </div>
       </div>
       <div className="skills">

@@ -14,7 +14,7 @@ function Experience() {
           className="vertical-timeline-element--education"
           date="2011 - 2023"
           iconStyle={{ background: "#3e497a", color: "#fff" }}
-          icon={<SchoolIcon />}
+          icon={<SchoolIcon onClick={event =>  window.location.href='https://www.nordangliaeducation.com/bis-hcmc'}/>}
         >
           <h3 className="vertical-timeline-element-title">
             British International School Ho Chi Minh City, Vietnam
