@@ -11,7 +11,7 @@ function Home() {
         <h2> Hi, My name is Daeyeon!</h2>
         <div className="prompt">
           <p>An aspiring Computer Science student with a passion for technology and entrepreneurship!</p>
-          <LinkedInIcon />
+          <LinkedInIcon onClick={event =>  window.location.href='https://www.linkedin.com/in/dae-yeon-koh-884528265/'}/>
           <EmailIcon />
           <GithubIcon />
         </div>
