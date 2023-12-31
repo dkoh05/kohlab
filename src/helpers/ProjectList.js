@@ -3,7 +3,7 @@ import Proj1 from "../assets/proj1.jpg";
 
 export const ProjectList = [
   {
-    name: "Rental Home Booking Systen",
+    name: "Rental Home Booking System",
     image: Proj1,
     skills: "Java, SQlite",
   },

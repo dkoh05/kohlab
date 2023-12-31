@@ -21,56 +21,8 @@ function Experience() {
           </h3>
           <p> <b>Activities: </b> 
             President of Robotics & Coding Club; 
-            Social Media Marketer and Promoter of Uber Global Hackathon; 
             Software Developer of Rental Home Booking System; 
-            Learning Technology Committee; 
-            Mentor/Personal Boxing Coach (outside of school)</p>
-
-          <p>
-            <b>IGCSE Grades: </b>
-              4 A*, 
-              3 A, 
-              2 B
-          </p>
-          <p>
-            <b>iB Predicted Grades: </b>
-            <li>
-              Computer Science HL:  
-              <span>
-                 6
-              </span>
-            </li>
-            <li>
-              Economics HL:  
-              <span>
-                 6
-              </span>
-            </li>
-            <li>
-              Business Management HL:  
-              <span>
-                 6
-              </span>
-            </li>
-            <li>
-              English A Language and Literature SL:  
-              <span>
-                 5
-              </span>
-            </li>
-            <li>
-              Mathematics Analysis and Approaches SL:  
-              <span>
-                 5
-              </span>
-            </li>
-            <li>
-              Spanish ab initio SL:  
-              <span>
-                 5
-              </span>
-            </li>
-          </p>
+            Committee Organizer of Learning Technology Committee </p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
@@ -79,7 +31,7 @@ function Experience() {
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            USA
+            The Pennsylvania State University - University Park, PA
           </h3>
 
           <h4 className="vertical-timeline-element-subtitle">
