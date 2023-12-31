@@ -6,7 +6,7 @@ function Footer() {
   return (
     <div className="footer">
       <div className="socialMedia">
-        <LinkedInIcon onClick={event =>  window.location.href='www.linkedin.com/in/dkoh05'}/>
+        <LinkedInIcon onClick={event =>  window.location.href='https://www.linkedin.com/in/dkoh05/'}/>
       </div>
       <p> &copy; 2023 Daeyeon Koh</p>
     </div>
