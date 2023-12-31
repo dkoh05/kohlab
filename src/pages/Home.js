@@ -7,10 +7,10 @@ function Home() {
   return (
     <div className="home">
       <div className="about">
-        <h2> Hi, my name is Daeyeon. Welcome to my portfolio!</h2>
+        <h2> Welcome to Daeyeon's portfolio!</h2>
         <div className="prompt">
           <p>An aspiring Computer Science student with a passion for technological solution development!</p>
-          <LinkedInIcon onClick={event =>  window.location.href='www.linkedin.com/in/dkoh05'}/>
+          <LinkedInIcon onClick={event =>  window.location.href='https://www.linkedin.com/in/dkoh05/'}/>
           <GithubIcon onClick={event =>  window.location.href='https://github.com/dkoh05'}/>
         </div>
       </div>
